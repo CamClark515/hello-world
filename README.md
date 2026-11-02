@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
-Im Cameron im in college for a bachelors in ComputerScience
+I'm Cameron. I'm in college for a bachelors in Computer Science
